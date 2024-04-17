@@ -1,6 +1,6 @@
 # [live demo](https://react-testing-feedback-form2.vercel.app/)
 
-# Getting Started with Create React App
+# the test code is included in the App.test.js file 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
